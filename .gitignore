@@ -1,0 +1,16 @@
+/build/
+/debug/
+/dist/default/production/dac_testing101.X.production.lst
+/dist/default/production/dac_testing101.X.production.o
+/dist/default/production/dac_testing101.X.production.sdb
+/dist/default/production/dac_testing101.X.production.mum
+/dist/default/production/dac_testing101.X.production.sym
+/dist/default/production/dac_testing101.X.production.hxl
+/dist/default/production/dac_testing101.X.production.rlf
+/dist/default/production/dac_testing101.X.production.cmf
+/nbproject/private/
+/nbproject/Makefile-genesis.properties
+/nbproject/Makefile-variables.mk
+/nbproject/Makefile-local-default.mk
+/nbproject/Makefile-impl.mk
+/nbproject/Makefile-default.mk
